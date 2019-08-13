@@ -11,4 +11,4 @@ echo
 echo -e "\033[033mUsuários do sistema\033[0m"
 users
 echo
-echo -e "\033[31mScript finalizado\033[0m"
+echo -e "\033[44mScript finalizado\033[0m"
