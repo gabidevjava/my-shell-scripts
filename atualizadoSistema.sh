@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e "\033[31mIniciando atualização do pacman todo Poderoso\033[0m"
 echo
 sudo pacman -Syyu --noconfirm
