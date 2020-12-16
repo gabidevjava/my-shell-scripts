@@ -1,2 +1,2 @@
-# my-shell-scripts
+# Study Shell Script <3
 
